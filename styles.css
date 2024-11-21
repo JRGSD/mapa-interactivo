@@ -1,0 +1,17 @@
+/* Estilo del mapa */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin: 10px 0;
+}
+
+#map {
+  height: 90vh; /* Altura del mapa */
+  width: 100%;  /* Ancho del mapa */
+  border: 2px solid #000;
+}
